@@ -9,13 +9,13 @@ Este é um exemplo de projeto que captura a localização do usuário e cria um 
 
 ## Estrutura do Projeto
 - `index.html`: Página principal.
-- `style.css`: Estilos básicos para o layout.
+- `style.css`: Estilos modernos para um layout atraente.
 - `script.js`: Lógica para capturar localização e criar o link.
 
 ## Publicação
 Este projeto pode ser publicado no GitHub Pages ou em outro serviço de hospedagem.
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3 com Google Fonts
+- JavaScript (Geolocation API)
